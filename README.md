@@ -18,3 +18,40 @@ This project simulates a simple banking system that allows users to check their 
 2. Run the executable: `./banking_system`.
 
 ## Sample Interaction
+Enter account holder's name: John Doe
+Enter initial deposit: $1000
+
+Banking System Menu
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 1
+Account Holder: John Doe
+Current balance: $1000
+
+Banking System Menu
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 2
+Enter deposit amount: $500
+$500 deposited successfully.
+
+Banking System Menu
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 3
+Enter withdrawal amount: $200
+$200 withdrawn successfully.
+
+Banking System Menu
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 4
+Exiting the banking system.
